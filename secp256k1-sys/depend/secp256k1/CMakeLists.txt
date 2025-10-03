@@ -403,3 +403,5 @@ if(SECP256K1_EXPERIMENTAL)
     "  ******\n"
   )
 endif()
+
+# Update: 2025-10-03
