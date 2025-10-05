@@ -52,3 +52,5 @@ Similarly, the API supports an alternative protocol flow where generating the ag
 ## Verification
 
 A participant who wants to verify the partial signatures, but does not sign itself may do so using the above instructions except that the verifier skips steps 1, 4 and 7.
+
+<!-- Auto-update: 2025-10-05T08:38:08.888891 -->
