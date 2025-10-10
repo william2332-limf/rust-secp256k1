@@ -140,3 +140,5 @@ Contributing to libsecp256k1
 ------------
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+<!-- Auto-update: 2025-10-10T14:23:15.162983 -->
